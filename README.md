@@ -3,19 +3,19 @@
 # Day-3.Indranil-Readme 🚀
 Hey Everyone 👋 I am Indranil Chatterjee and I am From NSEC IT 1st Year
 
-## 🔷Basic Details
+## ❤️Basic Details
 **Name** - *Indranil Chatterjee*
 
 **City** - *Kolkata*
 
 <img src="https://img.icons8.com/bubbles/50/000000/kolkata.png"/>
 
-## 🔷College Details
+## ❤️College Details
 **College Name** - *Netaji Subhas Engineering College*
 
 **College City** - *Kolkata,Garia*
 
-## 🔷Here is my Skills
+## 💙Here is my Skills
 | S.No | Skills|
 |---|---|
 |1.| React|
@@ -24,13 +24,13 @@ Hey Everyone 👋 I am Indranil Chatterjee and I am From NSEC IT 1st Year
 |4.| C Language|
 |5.| Guitar|
 
-## 🔷Courses
+## 💙Courses
 1. Coursera
 2. HackerRank
 3. Udemy
 4. Programming Hub
 
-## 🔷Language
+## ❣️Language
 -  Bengali
 -  Hindi
 -  English
