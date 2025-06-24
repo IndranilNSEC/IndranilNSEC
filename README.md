@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Indranil Chatterjee 👋</h1>
 <p align="center">
-  <em>A Passionate Developer | SIH 2024 Winner | 3x Hackathon Finalist | Cloud Enthusiast | Tech Explorer from Kolkata 🇮🇳</em>
+  <em>A Passionate Developer | SIH 2024 Winner | 3x Hackathon Finalist | Cloud,AI and Data Science Enthusiast | Tech Explorer from Kolkata 🇮🇳</em>
 </p>
 
 ---
