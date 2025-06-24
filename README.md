@@ -1,4 +1,6 @@
-![Welcome Banner](https://github.com/IndranilNSEC/Day-3.Indranil-Readme/blob/main/Github_Blog.gif)
+<div align="center">
+  <img src="https://github.com/IndranilNSEC/Day-3.Indranil-Readme/blob/main/Github_Blog.gif" alt="Welcome Banner"/>
+</div>
 
 <h1 align="center">Hi, I'm Indranil Chatterjee 👋</h1>
 <p align="center">
