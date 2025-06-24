@@ -12,7 +12,7 @@
 ## 💼 About Me
 
 🎓 I’m currently a **4th Year B.Tech student in Information Technology** at  
-**Netaji Subhash Engineering College, Kolkata (Batch: 2021–2025)**
+**Netaji Subhash Engineering College, Kolkata (Batch: 2021–2025) with an Average 9.20 CGPA**
 
 📍 Based in: **Kolkata, India**  
 📧 Email: chatterjeeindranil094@gmail.com  
